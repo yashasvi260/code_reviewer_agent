@@ -1,0 +1,4 @@
+timestamp,review_type,code_type,logic_result,optimization_score,summary
+2025-07-09 22:59:32.163598,logic,pyspark,FAIL,NA,❌ Failed to generate review after 3 attempts.
+2025-07-10 10:01:22.440169,logic,pyspark,PASS,NA,"Step 1: The logic from the code is to filter the data where status is 'Completed', group it by custo"
+2025-07-10 10:03:59.136003,both,pyspark,PASS,8,"Step 1: The code filters the dataframe to include only rows where status is 'Completed', groups by c"

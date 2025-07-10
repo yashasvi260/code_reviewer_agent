@@ -1,0 +1,1 @@
+For each customer, sum the total amount of purchases where status = 'Completed' grouped by customer and month.
